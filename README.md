@@ -11,7 +11,7 @@
 ![Root Zone Soil Moisture Map](smap_map.jpg)
 
 ### 2. Landsat 30m Soil Moisture Index (SMI) Map
-![Landsat SMI Map](smi_map.png)
+![Landsat SMI Map](smi_map.jpg)
 
 ### 3. Multi-Panel MODIS Drought Assessment (VCI, TCI, VHI)
 ![MODIS Drought Map](drought_map.jpg)
